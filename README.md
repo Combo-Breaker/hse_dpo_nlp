@@ -10,3 +10,5 @@ __3. Извлечение ключевых слов. Тематическое м
 * Ноутбук по синтаксису [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/Combo-Breaker/hse_dpo_nlp/blob/master/3_Syntax.ipynb)
 
 При подготовке курса использованы материалы Екатерины Артемовой, Марии Пономаревой, Мурата Апишева, Оксаны Дерезы.
+
+* regex tutorial [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PragmaticsLab/NLP-course-FinTech/blob/master/seminars/1/1_regex.ipynb)
